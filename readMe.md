@@ -41,6 +41,5 @@ npm run ios
 The Palmpay Clone was built using the following technologies:
 
 1. React Native 
-2. expo
 3. Redux
 4. React Navigation
